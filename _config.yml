@@ -1,0 +1,47 @@
+# files
+layouts: ./_/layouts
+includes: ./_/includes
+destination: ./_/site
+sass:
+  sass_dir: ./_/sass
+
+# Markdown
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# Site settings
+permalink: /:title.html
+exclude: ["Makefile", "README.md", "_/Gemfile", "_/Gemfile.lock", "CNAME"]
+
+# Site info
+meta:
+  title: Eson Paguia
+  author: Eson Paguia
+  name: Eson Paguia
+  hostname: esonpaguia.com
+
+facebook:
+  app_id: 1685611901660551
+  admin: esonpaguia
+
+analytics:
+  id: "UA-57991635-2"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "article"
+      tags: []
