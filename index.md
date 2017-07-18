@@ -4,7 +4,7 @@ description: "Personal site of web developer Eson Paguia."
 ---
 
 I am a web developer helping make the world a better place through
-JavaScript, Java, Ruby, and UI design.
+JavaScript, Java, Spring, and UI design.
 
 I am an open-source contributor and I like making things that help people with 
 their work. 
