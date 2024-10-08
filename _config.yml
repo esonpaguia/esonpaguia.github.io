@@ -10,7 +10,7 @@ github_username:  esonpaguia
 email_address: hi@esonpaguia.com
 
 # files
-layouts: ./_layouts
+layouts_dir: ./_layouts
 includes: ./_includes
 destination: ./_/site
 sass:
