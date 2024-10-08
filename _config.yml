@@ -1,3 +1,14 @@
+title: Eson Paguia
+email: hi@esonpaguia.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am a web developer helping make the world a better place 
+  through JavaScript, Java, Spring, and UI design.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://esonpaguia.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: esonpaguia
+github_username:  esonpaguia
+email_address: hi@esonpaguia.com
+
 # files
 layouts: ./_/layouts
 includes: ./_/includes
@@ -12,18 +23,18 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
-  use_coderay: true
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: nil
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 # Site settings
 permalink: /:title.html
-exclude: ["Makefile", "README.md", "_/Gemfile", "_/Gemfile.lock", "CNAME"]
+exclude: ["Makefile", "README.md", "Gemfile", "Gemfile.lock", "CNAME"]
 
 # Site info
 meta:
@@ -43,5 +54,5 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "article"
+      layout: "landing"
       tags: []

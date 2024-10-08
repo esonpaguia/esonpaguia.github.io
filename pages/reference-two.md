@@ -1,6 +1,6 @@
 ---
 title: Reference Part II
-layout: article
+layout: landing
 secret: true
 ---
 

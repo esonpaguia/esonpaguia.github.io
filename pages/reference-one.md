@@ -1,7 +1,7 @@
 ---
 title: "Reference Part I"
 description: "Style reference"
-layout: article
+layout: landing
 secret: true
 ---
 

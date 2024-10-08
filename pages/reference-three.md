@@ -1,9 +1,10 @@
 ---
 title: "Reference Part III"
 description: "Style reference"
-layout: article
+layout: landing
 show_byline: false
 show_footer: false
+secret: true
 ---
 
 * * * *

@@ -1,8 +1,7 @@
-PORT ?= 3000
-bundle := env BUNDLE_GEMFILE=./_/Gemfile bundle
+bundle := env BUNDLE_GEMFILE=./Gemfile bundle
 
 start: bundle
-	${bundle} exec jekyll serve --safe --drafts --watch --port ${PORT}
+	${bundle} install && bundle exec jekyll serve --host=0.0.0.0
 
 build: bundle
 	${bundle} exec jekyll build --safe

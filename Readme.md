@@ -7,16 +7,16 @@
 - `make start` to start server
 
 - iterate on the `develop` branch (css changes, etc)
-  
+
 - push to `master` when ready
 
-- bundler (`_/Gemfile`) is here to keep github-pages gems consistent
+- bundler (`Gemfile`) is here to keep github-pages gems consistent
 
 ## What's here
 
 - `_/` - boilerplate stuff are placed here as much as possible.
 
-- `/pages/ref.html` - style references
+- `/pages/reference-*.html` - style references
 
 ## TODO
 
