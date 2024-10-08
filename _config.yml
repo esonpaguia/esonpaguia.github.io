@@ -10,11 +10,11 @@ github_username:  esonpaguia
 email_address: hi@esonpaguia.com
 
 # files
-layouts: ./_/layouts
-includes: ./_/includes
+layouts: ./_layouts
+includes: ./_includes
 destination: ./_/site
 sass:
-  sass_dir: ./_/sass
+  sass_dir: ./_sass
 
 # Markdown
 highlighter: pygments
