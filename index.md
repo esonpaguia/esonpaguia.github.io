@@ -6,7 +6,7 @@ layout: landing
 description: "Personal site of Eson Paguia."
 ---
 
-I am a software developer helping make the world a better place through Java, Kotlin, Spring, TypeScript, and AWS.
+[I am](/about) a software developer helping make the world a better place through Java, Kotlin, Spring, TypeScript, and AWS.
 
 I am an open-source contributor and I like making things that help people with their work.
 

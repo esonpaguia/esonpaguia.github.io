@@ -2,6 +2,7 @@
 layout: landing
 permalink: /about
 ---
+<h2>About me</h2>
 
 While Java development is my primary language, I am always eager to understand all aspects of a system.
 
@@ -11,7 +12,7 @@ I like to build things that will help people in their everyday lives and make th
 
 I believe
 
-<strong>&gt;</strong> Make someone happy today (me)<br>
+<strong>&gt;</strong> Make someone happy today. (me)<br>
 <strong>&gt;</strong> Build software for people first, computers second.<br>
 <strong>&gt;</strong> Usability comes first, inspired by Donald Norman<br>
 <strong>&gt;</strong> Make everything as simple as possible, but not simpler. (Albert Einstein)<br>
@@ -21,7 +22,7 @@ I believe
 <strong>&gt;</strong> Do one thing and do it right. (37signals)<br>
 <strong>&gt;</strong> Good is the enemy of great. (Jim Collins)<br>
 <strong>&gt;</strong> Stay hungry, stay foolish. (Steve Jobs)<br>
-<strong>&gt;</strong> Life shrinks or expands in proportion to one's courage (Anais Nin)<br>
+<strong>&gt;</strong> Life shrinks or expands in proportion to one's courage. (Anais Nin)<br>
 <strong>&gt;</strong> Michael Jordan is an alien. (me, again)<br>
 
 I am an adventurer, a traveller, and a student. I love to learn and experience new things daily.
